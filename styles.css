@@ -26,5 +26,9 @@ li:nth-child(4) {
 }
 li:nth-child(1) {
   background:white;
+}
+.list{
+	width:50%;
+}
 
 
